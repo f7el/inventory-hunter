@@ -1,0 +1,6 @@
+---
+refresh_interval: 2 # seconds
+urls:
+  - https://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666
+
+...

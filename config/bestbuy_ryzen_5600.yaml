@@ -1,0 +1,6 @@
+---
+refresh_interval: 2 # seconds
+urls:
+  - https://www.bestbuy.com/site/amd-ryzen-5-5600x-4th-gen-6-core-12-threads-unlocked-desktop-processor-with-wraith-stealth-cooler/6438943.p?skuId=6438943
+
+...
